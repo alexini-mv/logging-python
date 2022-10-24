@@ -1,0 +1,10 @@
+2022-10-24 04:19:40 main.py [INFO] Iniciamos la prueba.
+2022-10-24 04:19:40 main.py [WARNING] Houston, tenemos un problema.
+2022-10-24 04:19:40 main.py [ERROR] Tuvimos un error.
+2022-10-24 04:19:40 main.py [CRITICAL] ¡Estoy muerto!
+2022-10-24 04:19:40 main.py [ERROR] Ocurrio un gravisimo error.
+Traceback (most recent call last):
+  File "/home/alejandro/Documentos/logging-python/main.py", line 43, in <module>
+    division = a/b
+ZeroDivisionError: division by zero
+2022-10-24 04:19:40 main.py [INFO] No pasa nada, seguimos trabajando!!!
